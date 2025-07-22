@@ -24,3 +24,4 @@ Los archivos provienen del repositorio público de Alura LATAM y contienen infor
 - Python 🐍
 - pandas
 - Google Colab
+- Jupyter Notebook
